@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning C++
 - 💬 Ask me about Python, Flask, C#, C++
 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!--
 **lorenzolpandolfo/lorenzolpandolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
