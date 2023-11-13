@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on coffee-shop
 - 🌱 I’m currently learning C++
 - 💬 Ask me about Python, Flask, C#, C++
-- ⚡ Fun fact: ...
 
 <!--
 **lorenzolpandolfo/lorenzolpandolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
