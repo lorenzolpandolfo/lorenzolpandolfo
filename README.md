@@ -12,8 +12,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-### 👥 founder of Amigos do ADS community 
-Amigos do ADS is an brazilian technology Discord community. We cover several topics about programming, web development, Linux and a lot more. If you're interested, contact me!
+
 <!--
 **lorenzolpandolfo/lorenzolpandolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
