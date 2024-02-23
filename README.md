@@ -1,8 +1,9 @@
 ### hi, im Lorenzo! 👋
 
-- 🔭 Working on my ![coffee-shop](https://github.com/lorenzolpandolfo/coffee-shop/) repository
-- 🌱 I’m currently learning C++
+- 🔭 Working on my coffee-shop and pytext repositories
+- 🌱 I’m currently learning C++ and Go
 - 💻 Looking for an internship program
+- 📫 How to reach me: lopandolfo@proton.me
 
 ### 😎 my interests
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
