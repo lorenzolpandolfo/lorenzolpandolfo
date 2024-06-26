@@ -1,8 +1,7 @@
 ### hi, im Lorenzo! 👋
 
-- 🔭 Working on my coffee-shop and pytext repositories
-- 🌱 I’m currently learning C++ and Go
-- 💻 Looking for an internship program
+- 🔭 Working on pytext, my text editor
+- 🌱 I have plans to study Golang more deeper
 - 📫 How to reach me: lopandolfo@proton.me
 
 ### 😎 my interests
