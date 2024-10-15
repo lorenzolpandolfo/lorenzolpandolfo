@@ -1,8 +1,10 @@
 ### hi, im Lorenzo! 👋
+<!--
 
 - 🔭 Working on pytext, my text editor
 - 🌱 I have plans to study Golang more deeper
 - 📫 How to reach me: lopandolfo@proton.me
+-->
 
 ### 😎 my interests
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
